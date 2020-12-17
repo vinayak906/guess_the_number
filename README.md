@@ -14,5 +14,5 @@ if you want to use the code of the game. you have to download file and run "game
 
 
 # NOTE: 
-1. This gamae is written in c language. 
+1. This game is written in c language. 
 2. there is not any malicious code.
